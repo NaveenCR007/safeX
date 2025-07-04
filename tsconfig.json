@@ -10,6 +10,7 @@
   ],
   "compilerOptions": {
     "baseUrl": ".",
+    "noUnusedLocals": false,
     "paths": {
       "@/*": [
         "./src/*"
