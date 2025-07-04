@@ -16,7 +16,7 @@ function App() {
       </SignedIn>
       <SignedOut>
         <SignInButton mode="modal">
-          <Button>Sign In</Button>
+          <Button className="cursor-pointer">Sign In</Button>
         </SignInButton>
       </SignedOut>
     </>
