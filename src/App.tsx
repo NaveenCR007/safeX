@@ -1,4 +1,4 @@
-import { UserButton, SignedIn, SignInButton, SignedOut } from "@clerk/clerk-react";
+import { SignedIn, SignInButton, SignedOut } from "@clerk/clerk-react";
 import Footer from "./components/Footer"
 import Manager from "./components/ui/Manager"
 import Navbar from "./components/ui/Navbar"
